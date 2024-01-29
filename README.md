@@ -5,10 +5,11 @@ How does the stock price performance of post-IPO technology companies in areas s
 
 ___
 
-- Run `stock_layoff_analysis.ipynb` to view analysis. Disclaimer: Notebook was made November 2023, so analysis is based on at that time current stock data.
+- Run `stock_layoff_analysis.ipynb` to view analysis. 
 
 - Run `pip install -r requirements.txt` to download necessary python libraries
 
+-**Disclaimer: Notebook was made November 2023, so analysis is based on at that time current stock data.**
 ___
 
 ### Organization ###
