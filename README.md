@@ -15,3 +15,6 @@ ___
 ### Organization ###
 - All stock's data from data wrangling are stored in __data__ folder
 - `stock_layoff_analysis.ipynb` and `layoffs.csv` stored in main folder of repository
+
+___
+- `layoffs.csv` sources from __kaggle.com__
