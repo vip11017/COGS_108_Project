@@ -17,4 +17,4 @@ ___
 - `stock_layoff_analysis.ipynb` and `layoffs.csv` stored in main folder of repository
 
 ___
-- `layoffs.csv` sources from __kaggle.com__
+- `layoffs.csv` sourced from __kaggle.com__
